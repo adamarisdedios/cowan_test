@@ -1,6 +1,12 @@
-"# cowan_test" 
+# Cowan tests
+## Subtitle
+### salut monde
 
-Abrir simbolo del sistema
-Abrir la ruta cd C:\Users\admon\Research\cowan_tests
-Activar el entorno virtual: .\cowan_tests\Scripts\activate
+### Instrucciones para activar el entorno virtual
+
+- Abrir simbolo del sistema
+
+- Abrir la ruta cd C:\Users\admon\Research\cowan_tests
+
+-Activar el entorno virtual: .\cowan_tests\Scripts\activate
 
